@@ -44,6 +44,14 @@ Teach your AI to research before it builds a website, then work through design, 
 npx website-build-skill
 ```
 
+### <img src="assets/project-04.png" width="36" height="24" alt=""> [repo-build-skill](https://github.com/aunysillyme/repo-build-skill)
+
+Teach your AI to build, release, and launch a GitHub repo: the stack, README, AGENTS.md, showing up in search and AI answers, and safe publishing to npm.
+
+```sh
+npx repo-build-skill
+```
+
 [More of my repos](https://github.com/aunysillyme?tab=repositories) · [My npm packages](https://www.npmjs.com/~aunysillyme)
 
 ## <img src="assets/stack.png" width="28" height="28" alt=""> What I work with
