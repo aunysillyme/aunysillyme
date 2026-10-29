@@ -20,7 +20,11 @@ I run my brand **AunySillyMe**, work in content and consulting, build my own sit
 
 ## <img src="assets/tools.png" width="28" height="28" alt=""> Open sourcing my tools
 
-### <img src="assets/project-01.png" width="36" height="24" alt=""> [model-orchestrator](https://github.com/aunysillyme/model-orchestrator)
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<img src="assets/project-01.png" width="36" height="24" alt=""> **[model-orchestrator](https://github.com/aunysillyme/model-orchestrator)**
 
 Give your AI coding agent rules for choosing the model and effort for each task, plus subagents, hooks, and a runner for delegated work.
 
@@ -28,7 +32,10 @@ Give your AI coding agent rules for choosing the model and effort for each task,
 npx model-orchestrator
 ```
 
-### <img src="assets/project-02.png" width="36" height="24" alt=""> [agent-personalizer](https://github.com/aunysillyme/agent-personalizer)
+</td>
+<td width="33%" valign="top">
+
+<img src="assets/project-02.png" width="36" height="24" alt=""> **[agent-personalizer](https://github.com/aunysillyme/agent-personalizer)**
 
 Keep your profile and instructions in one place, then generate the files each AI reads. A drift check catches copies that stop matching.
 
@@ -36,7 +43,10 @@ Keep your profile and instructions in one place, then generate the files each AI
 npx agent-personalizer
 ```
 
-### <img src="assets/project-03.png" width="36" height="24" alt=""> [website-build-skill](https://github.com/aunysillyme/website-build-skill)
+</td>
+<td width="33%" valign="top">
+
+<img src="assets/project-03.png" width="36" height="24" alt=""> **[website-build-skill](https://github.com/aunysillyme/website-build-skill)**
 
 Teach your AI to research before it builds a website, then work through design, code, accessibility, performance, search, security, and review.
 
@@ -44,7 +54,12 @@ Teach your AI to research before it builds a website, then work through design, 
 npx website-build-skill
 ```
 
-### <img src="assets/project-04.png" width="36" height="24" alt=""> [repo-build-skill](https://github.com/aunysillyme/repo-build-skill)
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<img src="assets/project-04.png" width="36" height="24" alt=""> **[repo-build-skill](https://github.com/aunysillyme/repo-build-skill)**
 
 Teach your AI to build, release, and launch a GitHub repo: the stack, README, AGENTS.md, showing up in search and AI answers, and safe publishing to npm.
 
@@ -52,7 +67,10 @@ Teach your AI to build, release, and launch a GitHub repo: the stack, README, AG
 npx repo-build-skill
 ```
 
-### <img src="assets/project-05.png" width="36" height="24" alt=""> [lean-browser-use](https://github.com/aunysillyme/lean-browser-use)
+</td>
+<td width="33%" valign="top">
+
+<img src="assets/project-05.png" width="36" height="24" alt=""> **[lean-browser-use](https://github.com/aunysillyme/lean-browser-use)**
 
 Cut what browser work costs in Claude Code: a fresh runner does the page work, steps go in bulk, guards block wasted steps, and a token meter shows your own saving.
 
@@ -60,13 +78,20 @@ Cut what browser work costs in Claude Code: a fresh runner does the page work, s
 npx lean-browser-use
 ```
 
-### <img src="assets/project-06.png" width="36" height="24" alt=""> [lean-computer-use](https://github.com/aunysillyme/lean-computer-use)
+</td>
+<td width="33%" valign="top">
+
+<img src="assets/project-06.png" width="36" height="24" alt=""> **[lean-computer-use](https://github.com/aunysillyme/lean-computer-use)**
 
 Let your AI agent control Mac apps in the background: chain actions in one command, read only the lines you need, and check that it cleaned up after itself.
 
 ```sh
 npx lean-computer-use
 ```
+
+</td>
+</tr>
+</table>
 
 [More of my repos](https://github.com/aunysillyme?tab=repositories) · [My npm packages](https://www.npmjs.com/~aunysillyme)
 
