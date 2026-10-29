@@ -52,6 +52,22 @@ Teach your AI to build, release, and launch a GitHub repo: the stack, README, AG
 npx repo-build-skill
 ```
 
+### <img src="assets/project-05.png" width="36" height="24" alt=""> [lean-browser-use](https://github.com/aunysillyme/lean-browser-use)
+
+Cut what browser work costs in Claude Code: a fresh runner does the page work, steps go in bulk, guards block wasted steps, and a token meter shows your own saving.
+
+```sh
+npx lean-browser-use
+```
+
+### <img src="assets/project-06.png" width="36" height="24" alt=""> [lean-computer-use](https://github.com/aunysillyme/lean-computer-use)
+
+Let your AI agent control Mac apps in the background: chain actions in one command, read only the lines you need, and check that it cleaned up after itself.
+
+```sh
+npx lean-computer-use
+```
+
 [More of my repos](https://github.com/aunysillyme?tab=repositories) · [My npm packages](https://www.npmjs.com/~aunysillyme)
 
 ## <img src="assets/stack.png" width="28" height="28" alt=""> What I work with
