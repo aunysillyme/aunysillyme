@@ -16,7 +16,7 @@ I build and break down AI systems in public and teach creators how to use them.
 
 Most of my day goes into building with my Claude and other models, testing tools, and figuring out how to make them useful in my actual work. Then I share what I learned in plain words, so you can use it too.
 
-I run **Auny LLC**, work in content and consulting, build my own sites, and run ad campaigns for myself and clients. I'm also a brand ambassador for **Adobe Firefly**.
+I run my brand **AunySillyMe**, work in content and consulting, build my own sites, and run ad campaigns for myself and clients. I'm also a brand ambassador for **Adobe Firefly**.
 
 ## <img src="assets/tools.png" width="28" height="28" alt=""> Open sourcing my tools
 
